@@ -649,11 +649,13 @@ h2{
 .contact .right form .field input:focus,
 .contact .right form .textarea textarea:focus {
     border-color: #b3b3b3;
+     color: #fff;
 }
 
 .contact .right form .textarea textarea {
     padding-top: 10px;
     resize: none;
+     color: #fff;
 }
 
 .contact .right form .button-area {
